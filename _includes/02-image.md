@@ -1,1 +1,1 @@
-![This is an image I took from the web](https://github.com/gshimeon/markdown-portfolio/_includes/Butterflies.png)
+![Image of Yaktocat I took from the course](https://octodex.github.com/images/yaktocat.png)
